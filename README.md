@@ -4,7 +4,7 @@ This repository was created as a small test project.
 
 ## Overview
 - Repository: `NeverStu/Test`
-- Description: `test test `
+- Description: `Testing Github `
 - Visibility: Public
 - Default branch: `main`
 
